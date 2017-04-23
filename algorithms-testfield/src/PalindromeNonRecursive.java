@@ -1,4 +1,4 @@
-package learning;
+
 
 public class PalindromeNonRecursive
 {
