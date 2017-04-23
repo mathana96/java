@@ -19,11 +19,7 @@ public class ChooseFile
 	public static void main(String[] args) throws FileNotFoundException 
 	{
 		ChooseFile cFile = new ChooseFile();		
-	}
-	
-	public ChooseFile() throws FileNotFoundException
-	{
-		run();
+		cFile.run();
 	}
 	
 	public void run()
